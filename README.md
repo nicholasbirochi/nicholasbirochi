@@ -45,13 +45,13 @@
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" height="30" alt="sql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=zapier" height="30" alt="automation logo" />
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="30" alt="automation logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=workflow" height="30" alt="automation workflow logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" height="30" alt="n8n logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="30" alt="powerbi logo" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="30" alt="powerbi logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
