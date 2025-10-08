@@ -31,7 +31,9 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<h2 align="left">My name is Nicholas Birochi and I'm a Data Analytics, from Volkswagen!</h2>
+<h4 align="left">My name is Nicholas Birochi and I'm a Data Analytics, from Volkswagen!</h2>
+
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
