@@ -47,11 +47,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/automation--v2.png" height="30" alt="automation logo" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/automation-colored.svg" height="30" alt="automation logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/n8n.png" height="30" alt="n8n logo" />
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/n8n-colored.svg" height="30" alt="n8n logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="30" alt="powerbi logo" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powerbi-colored.svg" height="30" alt="powerbi logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
