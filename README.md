@@ -43,7 +43,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sql.svg" height="30" alt="sql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/database.svg" height="30" alt="database logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
