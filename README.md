@@ -29,7 +29,6 @@
 <h1 align="center">Hey There! 👋🏻</h1>
 
 ###
-
 <h3 align="left">👩‍💻  About Me</h3>
 <h4 align="left">My name is Nicholas Birochi and I'm a Data Analytics, from Volkswagen!</h2>
 
@@ -70,6 +69,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
 </div>
+
 ###
 
 
