@@ -43,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="30" alt="sql logo" />
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="30" alt="automation logo" />
   <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="30" alt="n8n logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="powerbi logo" />
