@@ -40,7 +40,7 @@
 
 ###
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="30" alt="sql logo" />
   <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="30" alt="n8n logo" />
@@ -51,8 +51,8 @@
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dotnet logo" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
 </div>
