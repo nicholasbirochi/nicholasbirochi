@@ -30,7 +30,7 @@
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
-<h4 align="left">My name is Nicholas Birochi and I'm a Data Analytics, from Volkswagen!</h2>
+<h4 align="left">I'm a Data Analyst at Volkswagen, focused on transforming data into insights.</h2>
 
 ###
 
@@ -68,5 +68,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nicholasbirochi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicholasbirochi&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasbirochi&layout=compact&theme=radical" height="150"/>
+</p>
 
 ###
