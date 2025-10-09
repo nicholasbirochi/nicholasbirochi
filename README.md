@@ -20,8 +20,7 @@
 
 ###
 
-<h1 align="center">Hey There!👋🏻</h1>
-<h4 align="center">I'm a Data Analyst at Volkswagen, focused on transforming data into insights.</h4>
+<h1 align="center">Hey There!👋🏻</h1><h4 align="center">I'm a Data Analyst at Volkswagen, focused on transforming data into insights.</h4>
 
 ###
 
