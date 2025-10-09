@@ -20,17 +20,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nicholasbirochi.nicholasbirochi&"  />
-</div>
-
-###
-
-<h1 align="center">Hey There! 👋🏻</h1>
-
-###
-<h3 align="left">👩‍💻  About Me</h3>
-<h4 align="left">I'm a Data Analyst at Volkswagen, focused on transforming data into insights.</h2>
+<h1 align="center">Hey There!👋🏻 I'm a Data Analyst at Volkswagen, focused on transforming data into insights.</h1>
 
 ###
 
