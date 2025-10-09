@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="30" alt="sql logo" />
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="30" alt="automation logo" />
-  <img src="https://www.vectorlogo.zone/logos/n8n_io/n8n_io-icon.svg" height="30" alt="n8n logo" />
+  <img src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/n8n.svg" height="30" alt="n8n logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="powerbi logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
