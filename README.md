@@ -41,7 +41,7 @@
 ###
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="r logo"  />
+  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"
        height="30" alt="sql logo"
        style="background-color: #3b3b3b; padding: 6px; border-radius: 8px;" />
