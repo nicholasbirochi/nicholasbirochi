@@ -30,20 +30,68 @@
 
 ###
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img src="https://img.icons8.com/fluency-systems-regular/48/artificial-intelligence.png" height="30" alt="ai chip logo" />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="30" alt="sql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
-  <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="30" alt="n8n logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="29" alt="powerbi logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
+
+  <!-- AI --> 
+  <div style="
+    width: 30px; height: 30px; border-radius: 8px;
+    background: linear-gradient(145deg, #e3e3e3, #f4f4f4);
+    display: flex; align-items: center; justify-content: center;
+  ">
+    <img src="https://img.icons8.com/fluency-systems-regular/48/artificial-intelligence.png"
+         height="18" alt="ai chip logo"
+         style="filter: brightness(0) saturate(100%) invert(20%) sepia(0%) saturate(500%) hue-rotate(190deg) brightness(90%) contrast(85%);" />
+  </div>
+
+  <!-- SQL -->
+  <div style="
+    width: 30px; height: 30px; border-radius: 8px;
+    background: linear-gradient(145deg, #e3e3e3, #f4f4f4);
+    display: flex; align-items: center; justify-content: center;
+  ">
+    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"
+         height="18" alt="sql logo" />
+  </div>
+
+  <!-- R -->
+  <div style="
+    width: 30px; height: 30px; border-radius: 8px;
+    background: linear-gradient(145deg, #e3e3e3, #f4f4f4);
+    display: flex; align-items: center; justify-content: center;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+         height="18" alt="r logo" />
+  </div>
+
+  <!-- n8n -->
+  <div style="
+    width: 30px; height: 30px; border-radius: 8px;
+    background: linear-gradient(145deg, #e3e3e3, #f4f4f4);
+    display: flex; align-items: center; justify-content: center;
+  ">
+    <img src="https://cdn.simpleicons.org/n8n/f27ea9"
+         height="18" alt="n8n logo" />
+  </div>
+
+  <!-- Power BI -->
+  <div style="
+    width: 30px; height: 30px; border-radius: 8px;
+    background: linear-gradient(145deg, #e3e3e3, #f4f4f4);
+    display: flex; align-items: center; justify-content: center;
+  ">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+         height="18" alt="powerbi logo" />
+  </div>
+
+  <!-- Restante dos ícones -->
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dotnet logo" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
 </div>
