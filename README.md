@@ -19,12 +19,10 @@
 ###
 <h1 align="center" style="font-size: 2em; line-height: 1.3; font-weight: 700;">
   Hey There! 👋🏻<br>
-  <span style="display: block; font-size: 0.7em; font-weight: 400; color: #a0a0a0; margin-top: 4px;">
+  <small style="font-size: 0.6em; font-weight: 400; color: #a0a0a0;">
     I'm a Data Analyst at Volkswagen, focused on transforming data into insights.
-  </span>
+  </small>
 </h1>
-
-
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
