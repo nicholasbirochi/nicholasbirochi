@@ -31,7 +31,7 @@
 ###
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img src="https://img.icons8.com/external-outline-lafs/64/external-artificial-intelligence-artificial-intelligence-outline-lafs.png" height="30" alt="ai brain logo" />
+  <img src="https://img.icons8.com/fluency-systems-regular/48/artificial-intelligence.png" height="30" alt="ai chip logo" />
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="30" alt="sql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
   <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="30" alt="n8n logo" />
