@@ -28,11 +28,14 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=py" height="42" alt="python logo"  />
   <img src="https://img.icons8.com/ios-filled/50/ffffff/artificial-intelligence.png" 
-     height="26" alt="ai logo"
-     style="background: linear-gradient(145deg, #2C2C2C, #1E1E1E);
-            border-radius: 8px;
-            padding: 8px;
-            margin-left: 6px;" />
+     height="42" alt="ai logo"
+     style="
+       background-color: #1E1E1E;
+       border-radius: 8px;
+       padding: 8px;
+       box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);
+       margin-left: 6px;
+     " />
   <img src="https://img.icons8.com/fluency-systems-regular/48/artificial-intelligence.png" height="42" alt="ai chip logo" />
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="42" alt="sql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" alt="r logo" />
