@@ -28,38 +28,22 @@
 
 ###
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-
-  <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=py" height="42" alt="python logo" />
-
-  <!-- AI (com fundo escuro) -->
-  <img src="https://img.icons8.com/external-outline-lafs/64/ffffff/external-artificial-intelligence-artificial-intelligence-outline-lafs.png"
-       height="42" alt="ai logo" 
-       style="background-color:#1E1E1E;border-radius:8px;padding:6px;" />
-
-  <!-- SQL -->
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/ffffff/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"
-       height="42" alt="sql logo" 
-       style="background-color:#1E1E1E;border-radius:8px;padding:6px;" />
-
-  <!-- R -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
-       height="42" alt="r logo"
-       style="background-color:#1E1E1E;border-radius:8px;padding:6px;" />
-
-  <!-- n8n -->
-  <img src="https://cdn.simpleicons.org/n8n/f27ea9"
-       height="42" alt="n8n logo"
-       style="background-color:#1E1E1E;border-radius:8px;padding:6px;" />
-
-  <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-       height="42" alt="powerbi logo"
-       style="background-color:#1E1E1E;border-radius:8px;padding:6px;" />
-
-  <!-- Demais ícones -->
-  <img src="https://skillicons.dev/icons?i=figma,mongodb,git,cs,dotnet,postman,html,css,js,java"
-       height="42" alt="ferramentas logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="42" alt="python logo"  />
+  <img src="https://img.icons8.com/fluency-systems-regular/48/artificial-intelligence.png" height="42" alt="ai chip logo" />
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="42" alt="sql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" alt="r logo" />
+  <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="42" alt="n8n logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="41" alt="powerbi logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="42" alt="csharp logo" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="42" alt="dotnet logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo" />
 </div>
 
 ###
