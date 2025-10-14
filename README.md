@@ -17,15 +17,8 @@
 </div>
 
 ###
-<h3 align="center" style="margin-bottom: 2px; font-size: 2em; font-weight: 700;">
-  Hey There! 👋🏻
-</h3>
-
-<h4 align="center" style="margin-top: 0; margin-bottom: 8px; font-weight: 500;">
-  I'm a Data Analyst at Volkswagen, focused on transforming data into insights.
-</h4>
-
-<hr style="width: 10%; margin: 0 auto; border: 0.5px solid #444;" />
+<h1 align="center">Hey There!👋🏻</h1>
+<h2 align="center">I'm a Data Analyst at Volkswagen, focused on transforming data into insights.</h2>
 
 
 ###
