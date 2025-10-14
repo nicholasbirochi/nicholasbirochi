@@ -17,14 +17,13 @@
 </div>
 
 ###
-
-<h1 align="center" style="margin-bottom: 8px;">Hey There! 👋🏻</h1>
-<h4 align="center" style="margin-top: 0;">I'm a Data Analyst at Volkswagen, focused on transforming data into insights.</h4>
+<h1 align="center" style="margin-bottom: 6px;">Hey There! 👋🏻</h1>
+<h4 align="center" style="margin-top: 0; margin-bottom: 10px;">
+  I'm a Data Analyst at Volkswagen, focused on transforming data into insights.
+</h4>
+<hr style="width: 60%; margin: 0 auto; border: 0.5px solid #444;" />
 
 ###
-
-
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -55,8 +54,8 @@
 
 ###
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicholasbirochi&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasbirochi&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nicholasbirochi&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasbirochi&layout=compact&theme=radical" height="180"/>
 </p>
 
 ###
