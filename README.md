@@ -28,7 +28,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=py" height="42" alt="python logo"  />
   <img src="https://img.icons8.com/ios-filled/50/ffffff/artificial-intelligence.png" 
-     height="42" alt="ai logo"
+     height="42" alt="ai chip logo"
      style="
        background-color: #1E1E1E;
        border-radius: 8px;
