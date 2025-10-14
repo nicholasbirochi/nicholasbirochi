@@ -17,9 +17,11 @@
 </div>
 
 ###
-<h1 align="center" style="margin-bottom: 6px;">Hey There! 👋🏻<h4 align="center" style="margin-top: 0; margin-bottom: 10px;">
+<h2 align="center" style="margin-bottom: 6px;">Hey There! 👋🏻</h2>
+<h4 align="center" style="margin-top: 0; margin-bottom: 10px;">
   I'm a Data Analyst at Volkswagen, focused on transforming data into insights.
-</h4></h1>
+</h4>
+<hr style="width: 40%; margin: 0 auto; border: 0.5px solid #444;" />
 
 
 ###
