@@ -17,9 +17,9 @@
 </div>
 
 ###
-<h1 align="center" style="font-size: 2em; line-height: 1.3;">
+<h1 align="center" style="font-size: 2em; line-height: 1.3; font-weight: 700;">
   Hey There! 👋🏻<br>
-  <span style="font-size: 0.06em; font-weight: 100; color: #aaa;">
+  <span style="display: block; font-size: 0.7em; font-weight: 400; color: #a0a0a0; margin-top: 4px;">
     I'm a Data Analyst at Volkswagen, focused on transforming data into insights.
   </span>
 </h1>
