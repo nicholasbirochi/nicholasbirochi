@@ -17,13 +17,15 @@
 </div>
 
 ###
-<p  align="center" style="font-size: 2.2em; font-weight: 800; color: #888; margin-top: 0;">
+<p align="center" style="font-size: 32px; font-weight: 800; color: #fff; margin-bottom: 4px;">
   Hey There! 👋🏻
 </p>
-<p align="center" style="font-size: 13px; font-weight: 400; color: #888; margin-top: 0;">
-  I'm a Data Analyst at <strong>Volkswagen</strong>, transforming data into insights.
+
+<p align="center" style="font-size: 14px; font-weight: 400; color: #aaa; margin-top: 0;">
+  I'm a Data Analyst at <strong style="color:#fff;">Volkswagen</strong>, transforming data into insights.
 </p>
-<hr style="width: 5%; margin: 6px auto; border: 0.2px solid #444;" />
+
+<hr style="width: 5%; margin: 6px auto; border: none; border-top: 0.3px solid #555;" />
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
