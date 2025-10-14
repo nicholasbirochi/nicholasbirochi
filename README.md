@@ -17,12 +17,10 @@
 </div>
 
 ###
-<h1 align="center" style="font-size: 2em; line-height: 1.3; font-weight: 700;">
-  Hey There! 👋🏻<br>
-  <small style="font-size: 0.6em; font-weight: 400; color: #a0a0a0;">
-    I'm a Data Analyst at Volkswagen, focused on transforming data into insights.
-  </small>
-</h1>
+<h1 align="center" style="margin-bottom: 4px;">Hey There! 👋🏻</h1>
+<p align="center" style="font-size: 14px; color: #a0a0a0; margin-top: 0;">
+  I'm a Data Analyst at Volkswagen, focused on transforming data into insights.
+</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
@@ -33,7 +31,6 @@
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="42" alt="sql logo" />
   <img src="https://img.icons8.com/fluency-systems-regular/48/artificial-intelligence.png" height="42" alt="ai chip logo" />
   <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="42" alt="n8n logo" />
-  <img src="https://skillicons.dev/icons?i=n8n" height="42" alt="n8n logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
   <img src="https://skillicons.dev/icons?i=r" height="42" alt="r logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo" />
