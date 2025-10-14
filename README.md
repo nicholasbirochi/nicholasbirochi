@@ -17,10 +17,11 @@
 </div>
 
 ###
-<h1 align="center" style="margin-bottom: 4px;">Hey There! 👋🏻</h1>
+<h1 align="center" style="margin-bottom: 4px;">Hey There! 👋🏻
 <p align="center" style="font-size: 14px; color: #a0a0a0; margin-top: 0;">
   I'm a Data Analyst at Volkswagen, focused on transforming data into insights.
 </p>
+</h1>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
