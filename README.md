@@ -20,13 +20,13 @@
 <h1 align="center" style="margin-bottom: 4px;">Hey There! 👋🏻</h1>
 
 ###
-<h3 align="left">👩‍💻 About Me:</h3>
+<h3 align="left" style="margin-top: 6px;>👩‍💻 About Me:</h3>
 <p align="left" style="font-size: 14px; font-weight: 400; color: #aaa; margin-top: 0;">
   I'm a Data Analyst at <strong style="color:#fff;">Volkswagen</strong>, transforming data into insights.
 </p>
 
 ###
-<h3 align="left">🛠 Language and Tools:</h3>
+<h3 align="left" style="margin-top: 6px;>🛠 Language and Tools:</h3>
 
 ###
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
@@ -49,7 +49,7 @@
 </div>
 
 ###
-<h3 align="left">🔥 My Stats:</h3>
+<h3 align="left" style="margin-top: 6px;>🔥 My Stats:</h3>
 
 ###
 <p align="center">
