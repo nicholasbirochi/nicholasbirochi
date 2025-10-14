@@ -17,8 +17,13 @@
 </div>
 
 ###
-<h1 align="center">Hey There!👋🏻
-I'm a Data Analyst at Volkswagen, focused on transforming data into insights.</h1>
+<h1 align="center" style="font-size: 2em; line-height: 1.3;">
+  Hey There! 👋🏻<br>
+  <span style="font-size: 0.6em; font-weight: 500; color: #aaa;">
+    I'm a Data Analyst at Volkswagen, focused on transforming data into insights.
+  </span>
+</h1>
+
 
 
 ###
