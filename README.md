@@ -36,8 +36,8 @@
   <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="42" alt="n8n logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
   <img src="https://skillicons.dev/icons?i=r" height="42" alt="r logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=cs" height="42" alt="csharp logo" />
