@@ -32,14 +32,9 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
-  <!-- AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="artificial intelligence logo" style="filter: grayscale(100%) brightness(1.2);" />
-
-  <!-- n8n -->
-  <img src="https://skillicons.dev/icons?i=n8n" height="40" alt="n8n logo" />
-
-  <!-- Power BI -->
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo" />
+  <img src="https://img.icons8.com/fluency-systems-regular/48/artificial-intelligence.png" height="40" alt="ai chip logo" />
+  <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="40" alt="n8n logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="38" alt="powerbi logo" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
