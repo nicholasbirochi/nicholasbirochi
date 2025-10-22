@@ -31,10 +31,9 @@
 ###
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=sql" height="40" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" />
-  <img src="https://skillicons.dev/icons?i=n8n" height="40" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" />
+  <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;">
+  <img src="https://skillicons.dev/icons?i=py,sql,ai,n8n,powerbi,git,postman,docker,cs,dotnet,mongodb,figma,r,java,html,css,js" height="40" />
+</div>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
