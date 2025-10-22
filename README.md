@@ -32,7 +32,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="ai logo" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="artificial intelligence logo" />
   <img src="https://skillicons.dev/icons?i=n8n" height="40" alt="n8n logo" />
   <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
