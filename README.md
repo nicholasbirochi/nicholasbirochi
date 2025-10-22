@@ -31,10 +31,10 @@
 ###
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="40" alt="sql logo" />
-  <img src="https://img.icons8.com/fluency-systems-regular/48/artificial-intelligence.png" height="40" alt="ai chip logo" />
-  <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="40" alt="n8n logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="38" alt="powerbi logo" />
+  <img src="https://skillicons.dev/icons?i=sql" height="40" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" />
+  <img src="https://skillicons.dev/icons?i=n8n" height="40" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
