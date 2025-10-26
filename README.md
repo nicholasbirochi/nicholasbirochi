@@ -34,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="machine learning logo" />
   <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="40" alt="n8n logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="38" alt="powerbi logo" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
