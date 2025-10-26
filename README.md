@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="44" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="sql logo" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="44" alt="tensorflow logo" />
-  <img src="https://raw.githubusercontent.com/nicholasbirochi/nicholasbirochi/main/Untitled.png" height="44" alt="n8n logo" />
+  <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="44" alt="n8n logo" />
   <img src="https://skillicons.dev/icons?i=r" height="44" alt="r logo" />
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=postman" height="44" alt="postman logo" />
