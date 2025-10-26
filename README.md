@@ -30,21 +30,21 @@
 
 ###
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="machine learning logo" />
-  <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="40" alt="n8n logo" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="42" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="sql logo" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="42" alt="machine learning logo" />
+  <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="42" alt="n8n logo" />
+  <img src="https://skillicons.dev/icons?i=r" height="42" alt="r logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="42" alt="csharp logo" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="42" alt="dotnet logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo" />
 </div>
 
 ###
