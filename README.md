@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="machine learning logo" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" height="40" alt="n8n logo" style="mask: url('https://cdn.simpleicons.org/n8n/f27ea9') no-repeat center / contain; background-color:#1d1d1d; border-radius:8px; padding:4px;" />
+  <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="40" alt="n8n logo" style="background-color:#1d1d1d;border-radius:8px;padding:4px;" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
