@@ -34,12 +34,12 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="sql logo" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="42" alt="tensorflow logo" />
   <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="42" alt="n8n logo" />
-  <!-- n8n com fundo acinzentado e cantos arredondados -->
-<img
-  src="https://cdn.simpleicons.org/n8n/F27EA9"
-  alt="n8n logo"
-  style="width:42px;height:42px;padding:6px;background:#242938;border-radius:9px;box-sizing:border-box;box-shadow:inset 0 0 0 1px rgba(255,255,255,0.06);vertical-align:middle;"
-/>
+  <!-- n8n com mesmo fundo/cantos dos skillicons -->
+  <img
+    src="https://cdn.simpleicons.org/n8n/F27EA9"
+    alt="n8n logo"
+    style="width:42px;height:42px;padding:6px;background:#242938;border-radius:9px;box-sizing:border-box;box-shadow:inset 0 0 0 1px rgba(255,255,255,0.06);vertical-align:middle;"
+  />
   <img src="https://skillicons.dev/icons?i=r" height="42" alt="r logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo" />
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo" />
