@@ -33,6 +33,9 @@
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="sql logo" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="tensorflow logo" />
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:45px;height:45px;background:#0f172a;border-radius:8px;">
+  <img src="https://cdn.simpleicons.org/n8n/f27ea9" alt="n8n logo" style="width:70%;height:70%;" />
+</span>
   <img src="https://skillicons.dev/icons?i=n8n" height="45" alt="n8n logo" />
   <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="45" alt="n8n logo" />
   <img src="https://skillicons.dev/icons?i=r" height="45" alt="r logo" />
