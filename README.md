@@ -33,7 +33,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="sql logo" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="tensorflow logo" />
-  <img src="https://skillicons.dev/icons?i=n8n" height="45" alt="n8n logo" />
   <img src="https://cdn.simpleicons.org/n8n/f27ea9" height="45" alt="n8n logo" />
   <img src="https://skillicons.dev/icons?i=r" height="45" alt="r logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" />
