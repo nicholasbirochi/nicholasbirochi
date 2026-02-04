@@ -22,7 +22,7 @@
 ###
 <h3 align="left" style="margin-top: 6px;">👩‍💻 About me</h3>
 <p align="left" style="font-size: 14px; font-weight: 400; color: #aaa; margin-top: 0;">
-  I'm a Data Analyst at <strong style="color:#fff;">Volkswagen</strong>, transforming data into insights.
+  I'm Nicholas, a Data Analyst at <strong style="color:#fff;">Volkswagen</strong>. Here I keep study projects and experiments with data analysis, software development and automation.
 </p>
 
 ###
