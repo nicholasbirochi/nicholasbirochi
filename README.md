@@ -54,12 +54,3 @@
 </div>
 
 ###
-<h3 align="left" style="margin-top: 6px;">🔥 My stats:</h3>
-
-###
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicholasbirochi&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasbirochi&layout=compact&theme=radical" height="240"/>
-</p>
-
-###
